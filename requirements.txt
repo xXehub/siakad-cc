@@ -1,0 +1,4 @@
+pytz==2020.4
+selenium==3.141.0
+webdriver_manager==3.4.2
+capmonster-python==2.2
